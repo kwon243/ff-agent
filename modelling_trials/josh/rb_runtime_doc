@@ -1,0 +1,426 @@
+Removed 265 noisy rows from training (z > 3).
+[VALID 2023] Ridge         MAE  4.487  RMSE  5.664  R²  0.321
+[VALID 2023] RandomForest  MAE  4.524  RMSE  5.670  R²  0.319
+[VALID 2023] HistGBR       MAE  4.534  RMSE  5.695  R²  0.313
+[VALID 2023] XGB           MAE  4.728  RMSE  5.954  R²  0.249
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001212 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7517
+[LightGBM] [Info] Number of data points in the train set: 10017, number of used features: 38
+[LightGBM] [Info] Start training from score 9.235222
+[VALID 2023] LGBM          MAE  4.704  RMSE  5.917  R²  0.259
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001137 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.047300
+Week  1 | trained on <2024 + weeks < 1 | model=Ridge
+[VALID 2024] Ridge         MAE  4.988  RMSE  6.255  R²  0.351
+[VALID 2024] RandomForest  MAE  4.786  RMSE  6.050  R²  0.393
+[VALID 2024] HistGBR       MAE  4.877  RMSE  6.083  R²  0.387
+[VALID 2024] XGB           MAE  4.915  RMSE  6.221  R²  0.359
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001107 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  4.865  RMSE  6.106  R²  0.382
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001112 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7633
+[LightGBM] [Info] Number of data points in the train set: 11128, number of used features: 38
+[LightGBM] [Info] Start training from score 9.059130
+Week  2 | trained on <2024 + weeks < 2 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.514  RMSE  6.161  R²  0.400
+[VALID 2024] RandomForest  MAE  4.383  RMSE  6.031  R²  0.425
+[VALID 2024] HistGBR       MAE  4.462  RMSE  6.134  R²  0.406
+[VALID 2024] XGB           MAE  4.579  RMSE  6.266  R²  0.380
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001105 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  4.413  RMSE  6.034  R²  0.425
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001243 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7675
+[LightGBM] [Info] Number of data points in the train set: 11196, number of used features: 38
+[LightGBM] [Info] Start training from score 9.067423
+Week  3 | trained on <2024 + weeks < 3 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.830  RMSE  6.525  R²  0.359
+[VALID 2024] RandomForest  MAE  4.773  RMSE  6.471  R²  0.370
+[VALID 2024] HistGBR       MAE  4.799  RMSE  6.514  R²  0.361
+[VALID 2024] XGB           MAE  4.853  RMSE  6.570  R²  0.350
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001235 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  4.781  RMSE  6.535  R²  0.357
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001282 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7681
+[LightGBM] [Info] Number of data points in the train set: 11264, number of used features: 38
+[LightGBM] [Info] Start training from score 9.076821
+Week  4 | trained on <2024 + weeks < 4 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.958  RMSE  6.713  R²  0.332
+[VALID 2024] RandomForest  MAE  4.928  RMSE  6.677  R²  0.339
+[VALID 2024] HistGBR       MAE  4.973  RMSE  6.735  R²  0.327
+[VALID 2024] XGB           MAE  4.976  RMSE  6.754  R²  0.324
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001328 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  4.946  RMSE  6.771  R²  0.320
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001305 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7685
+[LightGBM] [Info] Number of data points in the train set: 11327, number of used features: 38
+[LightGBM] [Info] Start training from score 9.101593
+Week  5 | trained on <2024 + weeks < 5 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.878  RMSE  6.581  R²  0.303
+[VALID 2024] RandomForest  MAE  4.843  RMSE  6.533  R²  0.313
+[VALID 2024] HistGBR       MAE  4.887  RMSE  6.579  R²  0.304
+[VALID 2024] XGB           MAE  4.897  RMSE  6.617  R²  0.296
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001448 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  4.899  RMSE  6.628  R²  0.293
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001591 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7691
+[LightGBM] [Info] Number of data points in the train set: 11384, number of used features: 38
+[LightGBM] [Info] Start training from score 9.110824
+Week  6 | trained on <2024 + weeks < 6 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.987  RMSE  6.700  R²  0.287
+[VALID 2024] RandomForest  MAE  4.963  RMSE  6.651  R²  0.298
+[VALID 2024] HistGBR       MAE  5.006  RMSE  6.701  R²  0.287
+[VALID 2024] XGB           MAE  5.018  RMSE  6.711  R²  0.285
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001528 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.027  RMSE  6.730  R²  0.281
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001428 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7693
+[LightGBM] [Info] Number of data points in the train set: 11439, number of used features: 38
+[LightGBM] [Info] Start training from score 9.121382
+Week  7 | trained on <2024 + weeks < 7 | model=RandomForest
+[VALID 2024] Ridge         MAE  5.103  RMSE  6.765  R²  0.297
+[VALID 2024] RandomForest  MAE  5.077  RMSE  6.715  R²  0.308
+[VALID 2024] HistGBR       MAE  5.120  RMSE  6.765  R²  0.297
+[VALID 2024] XGB           MAE  5.148  RMSE  6.826  R²  0.285
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001359 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.129  RMSE  6.805  R²  0.289
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001240 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7696
+[LightGBM] [Info] Number of data points in the train set: 11499, number of used features: 38
+[LightGBM] [Info] Start training from score 9.137956
+Week  8 | trained on <2024 + weeks < 8 | model=RandomForest
+[VALID 2024] Ridge         MAE  5.005  RMSE  6.597  R²  0.324
+[VALID 2024] RandomForest  MAE  4.981  RMSE  6.543  R²  0.335
+[VALID 2024] HistGBR       MAE  5.037  RMSE  6.594  R²  0.324
+[VALID 2024] XGB           MAE  5.059  RMSE  6.637  R²  0.315
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001335 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.034  RMSE  6.625  R²  0.318
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001260 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7701
+[LightGBM] [Info] Number of data points in the train set: 11564, number of used features: 38
+[LightGBM] [Info] Start training from score 9.144376
+Week  9 | trained on <2024 + weeks < 9 | model=RandomForest
+[VALID 2024] Ridge         MAE  5.041  RMSE  6.638  R²  0.324
+[VALID 2024] RandomForest  MAE  5.000  RMSE  6.583  R²  0.335
+[VALID 2024] HistGBR       MAE  5.054  RMSE  6.630  R²  0.326
+[VALID 2024] XGB           MAE  5.086  RMSE  6.693  R²  0.313
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001366 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.084  RMSE  6.702  R²  0.311
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001237 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7704
+[LightGBM] [Info] Number of data points in the train set: 11622, number of used features: 38
+[LightGBM] [Info] Start training from score 9.164965
+Week 10 | trained on <2024 + weeks < 10 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.996  RMSE  6.544  R²  0.330
+[VALID 2024] RandomForest  MAE  4.932  RMSE  6.485  R²  0.342
+[VALID 2024] HistGBR       MAE  4.984  RMSE  6.535  R²  0.332
+[VALID 2024] XGB           MAE  5.019  RMSE  6.615  R²  0.316
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001343 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.036  RMSE  6.635  R²  0.311
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001336 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7708
+[LightGBM] [Info] Number of data points in the train set: 11676, number of used features: 38
+[LightGBM] [Info] Start training from score 9.161856
+Week 11 | trained on <2024 + weeks < 11 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.999  RMSE  6.536  R²  0.341
+[VALID 2024] RandomForest  MAE  4.931  RMSE  6.473  R²  0.354
+[VALID 2024] HistGBR       MAE  4.993  RMSE  6.533  R²  0.342
+[VALID 2024] XGB           MAE  5.015  RMSE  6.601  R²  0.328
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001274 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.045  RMSE  6.644  R²  0.319
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001558 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7715
+[LightGBM] [Info] Number of data points in the train set: 11736, number of used features: 38
+[LightGBM] [Info] Start training from score 9.165864
+Week 12 | trained on <2024 + weeks < 12 | model=RandomForest
+[VALID 2024] Ridge         MAE  5.009  RMSE  6.574  R²  0.339
+[VALID 2024] RandomForest  MAE  4.946  RMSE  6.525  R²  0.349
+[VALID 2024] HistGBR       MAE  5.005  RMSE  6.580  R²  0.337
+[VALID 2024] XGB           MAE  5.046  RMSE  6.657  R²  0.322
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001249 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.076  RMSE  6.718  R²  0.309
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001242 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7716
+[LightGBM] [Info] Number of data points in the train set: 11787, number of used features: 38
+[LightGBM] [Info] Start training from score 9.169918
+Week 13 | trained on <2024 + weeks < 13 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.966  RMSE  6.488  R²  0.342
+[VALID 2024] RandomForest  MAE  4.904  RMSE  6.438  R²  0.352
+[VALID 2024] HistGBR       MAE  4.961  RMSE  6.494  R²  0.341
+[VALID 2024] XGB           MAE  5.009  RMSE  6.574  R²  0.324
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001353 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.026  RMSE  6.621  R²  0.315
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001331 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7711
+[LightGBM] [Info] Number of data points in the train set: 11848, number of used features: 38
+[LightGBM] [Info] Start training from score 9.172806
+Week 14 | trained on <2024 + weeks < 14 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.969  RMSE  6.505  R²  0.345
+[VALID 2024] RandomForest  MAE  4.926  RMSE  6.475  R²  0.350
+[VALID 2024] HistGBR       MAE  4.977  RMSE  6.532  R²  0.339
+[VALID 2024] XGB           MAE  5.056  RMSE  6.640  R²  0.317
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001254 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.045  RMSE  6.654  R²  0.314
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001231 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7714
+[LightGBM] [Info] Number of data points in the train set: 11898, number of used features: 38
+[LightGBM] [Info] Start training from score 9.181365
+Week 15 | trained on <2024 + weeks < 15 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.973  RMSE  6.508  R²  0.341
+[VALID 2024] RandomForest  MAE  4.938  RMSE  6.495  R²  0.344
+[VALID 2024] HistGBR       MAE  4.979  RMSE  6.536  R²  0.336
+[VALID 2024] XGB           MAE  5.068  RMSE  6.649  R²  0.312
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001335 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.060  RMSE  6.675  R²  0.307
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001401 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7709
+[LightGBM] [Info] Number of data points in the train set: 11958, number of used features: 38
+[LightGBM] [Info] Start training from score 9.188457
+Week 16 | trained on <2024 + weeks < 16 | model=RandomForest
+[VALID 2024] Ridge         MAE  5.033  RMSE  6.589  R²  0.341
+[VALID 2024] RandomForest  MAE  5.007  RMSE  6.587  R²  0.342
+[VALID 2024] HistGBR       MAE  5.041  RMSE  6.615  R²  0.336
+[VALID 2024] XGB           MAE  5.156  RMSE  6.749  R²  0.309
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001355 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.155  RMSE  6.804  R²  0.298
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001269 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7708
+[LightGBM] [Info] Number of data points in the train set: 12026, number of used features: 38
+[LightGBM] [Info] Start training from score 9.203419
+Week 17 | trained on <2024 + weeks < 17 | model=RandomForest
+[VALID 2024] Ridge         MAE  4.997  RMSE  6.524  R²  0.343
+[VALID 2024] RandomForest  MAE  4.961  RMSE  6.512  R²  0.346
+[VALID 2024] HistGBR       MAE  5.000  RMSE  6.550  R²  0.338
+[VALID 2024] XGB           MAE  5.125  RMSE  6.695  R²  0.308
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001347 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7649
+[LightGBM] [Info] Number of data points in the train set: 11059, number of used features: 38
+[LightGBM] [Info] Start training from score 9.179235
+[VALID 2024] LGBM          MAE  5.119  RMSE  6.740  R²  0.299
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.001283 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 7711
+[LightGBM] [Info] Number of data points in the train set: 12094, number of used features: 38
+[LightGBM] [Info] Start training from score 9.182270
+Week 18 | trained on <2024 + weeks < 18 | model=RandomForest
+
+Strict-weekly evaluation on TARGET_YEAR (BLENDED MODEL):
+
+=== OVERALL ===
+MAE: 4.919, RMSE: 6.480, R²: 0.359
+Mean errpr: 0.277, Median errpr: -1.214, Stdev: 6.477
+c:\Users\Adith\Downloads\cs441-ff-agent-main\cs441-ff-agent-main\rb_model.py:113: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  cal = (df.groupby("calib_bin").agg(n=(pred_col, "size"),pred_med=(pred_col, "median"),y_med=(y_col, "median"),mae=("abs_err", "median"),))  
+
+- Calibration by pred decile -
+                    n   pred_med  y_med       mae
+calib_bin
+(2.229, 4.226]    110   3.728166   2.70  2.021416
+(4.226, 5.055]    110   4.651455   2.55  3.080460
+(5.055, 5.934]    109   5.437040   4.30  3.271970
+(5.934, 7.102]    110   6.449875   3.80  4.012499
+(7.102, 8.941]    109   7.902893   5.70  4.175479
+(8.941, 10.872]   110  10.081642   9.10  5.349803
+(10.872, 12.391]  109  11.657860  10.40  5.107181
+(12.391, 13.871]  110  13.016443  13.10  4.050947
+(13.871, 15.706]  109  14.914581  16.20  5.427181
+(15.706, 20.749]  110  17.116532  16.25  6.054402
+
+- Error by actual PPR band (median MAE) -
+  band   n       mae
+  0-10 646  3.486194
+ 10-15 190  2.636465
+ 15-20 129  4.774464
+ 20-25  69  9.031470
+25-25+  62 13.805136
+
+=== Top 10 Best Predictions ===
+           label  abs_err
+KamaAl00 2024 10 0.001417
+ MattAl01 2024 8 0.002363
+ LuepHu00 2024 5 0.002867
+WhitRa01 2024 15 0.030573
+McLaJa00 2024 15 0.035443
+McCaCh01 2024 10 0.036791
+ WilsEm00 2024 1 0.047027
+EdwaGu00 2024 10 0.058778
+MattAl01 2024 11 0.059279
+ GibsAn00 2024 6 0.085833
+
+=== Top 10 Worst Predictions ===
+           label   abs_err
+CharZa00 2024 14 31.101892
+ KamaAl00 2024 2 30.918757
+ TuckSe00 2024 6 30.668556
+BarkSa00 2024 12 29.064600
+GibbJa01 2024 18 27.976382
+TaylJo02 2024 16 26.158289
+SpeaTy00 2024 15 21.539267
+SandMi01 2024 18 21.223996
+ HenrDe00 2024 4 20.656848
+ WalkKe00 2024 4 20.587818
+
+- FULL-SEASON MODEL PERFORMANCE (2024) -
+       model      MAE     RMSE       R2
+RandomForest 4.907055 6.469291 0.360689
+     HistGBR 4.974243 6.520971 0.350434
+       Ridge 4.965993 6.527852 0.349062
+        LGBM 5.047855 6.632687 0.327986
+         XGB 5.086344 6.672247 0.319946
+
+Baseline (mean predictor): MAE=6.504, RMSE=8.091
+
+Aggregated internal validation (rolling):
+
+=== OVERALL ===
+MAE: 4.028, RMSE: 5.153, R²: 0.579
+Mean errpr: 0.171, Median errpr: -0.999, Stdev: 5.151
+c:\Users\Adith\Downloads\cs441-ff-agent-main\cs441-ff-agent-main\rb_model.py:113: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  cal = (df.groupby("calib_bin").agg(n=(pred_col, "size"),pred_med=(pred_col, "median"),y_med=(y_col, "median"),mae=("abs_err", "median"),))  
+
+- Calibration by pred decile -
+                               n   pred_med  y_med       mae
+calib_bin
+(1.3670000000000002, 4.16]  1049   3.666294    1.6  1.996177
+(4.16, 4.92]                1048   4.515792    2.5  2.742952
+(4.92, 5.967]               1049   5.359080    2.7  3.238060
+(5.967, 7.209]              1048   6.597932    5.6  3.447060
+(7.209, 9.222]              1049   8.102337    6.1  3.427236
+(9.222, 10.983]             1048  10.249243    8.8  3.596867
+(10.983, 12.575]            1048  11.732254   10.7  3.916156
+(12.575, 14.177]            1049  13.297806   14.6  4.328220
+(14.177, 15.971]            1048  15.059389   15.9  4.084110
+(15.971, 26.23]             1049  17.447209   23.0  5.427602
+
+- Error by actual PPR band (median MAE) -
+  band    n       mae
+  0-10 6082  2.982674
+ 10-15 1817  2.346872
+ 15-20 1356  3.759412
+ 20-25  682  6.993903
+25-25+  548 11.371380
+
+=== Top 10 Best Predictions ===
+           label  abs_err
+ HallBr03 2024 3 0.001136
+ JohnRo07 2024 4 0.001438
+StevRh00 2024 11 0.001453
+ LuepHu00 2024 5 0.002044
+PeriSa00 2023 14 0.002406
+ BigsTa00 2024 8 0.002475
+ JohnRo07 2024 4 0.002752
+ BrowCh10 2024 8 0.003364
+ DowdRi01 2024 6 0.003397
+ElliEz00 2024 15 0.005475
+
+=== Top 10 Worst Predictions ===
+           label   abs_err
+ TuckSe00 2024 6 23.118477
+ TuckSe00 2024 6 22.669620
+ TuckSe00 2024 6 22.425657
+ TuckSe00 2024 6 22.388093
+ TuckSe00 2024 6 22.347711
+CharZa00 2024 14 22.325198
+CharZa00 2024 14 22.225128
+CharZa00 2024 14 21.988111
+ TuckSe00 2024 6 21.982498
+ TuckSe00 2024 6 21.934086
+
+Sample RB weekly predictions:
+ YEAR   PFR_ID  Week  PPR  predicted_PPR
+ 2024 AbduAm00     2  2.2           4.45
+ 2024 AbduAm00     3  3.3           5.00
+ 2024 AbduAm00     5 14.1           4.21
+ 2024 AbduAm00     6  4.8           5.24
+ 2024 AbduAm00     8  2.1           5.13
+ 2024 AbduAm00     9  5.6           4.99
+ 2024 AbduAm00    11 10.7           5.06
+ 2024 AbduAm00    12 17.5           5.47
+ 2024 AbduAm00    13  7.3           6.79
+ 2024 AbduAm00    14  1.0           6.92
+ 2024 AbduAm00    15 19.6           6.01
+ 2024 AbduAm00    16 19.5           8.35

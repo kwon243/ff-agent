@@ -1,0 +1,35 @@
+name: ppr-ensemble
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.11
+  - pip
+
+  # Data science stack
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn>=1.3
+  - joblib
+
+  # Optional but useful for visualization/reporting
+  - matplotlib
+  - seaborn
+
+  # For YAML/logging/debugging convenience
+  - pyyaml
+  - rich
+
+  # Hyperparameter distributions (used in scipy.stats)
+  - statsmodels
+
+  # Ensure compatible BLAS for performance
+  - blas=*=openblas
+
+  # pip-only packages (if you want advanced SHAP/interpretability)
+  - pip:
+      - shap>=0.44.0
+      - optuna>=3.5.0
